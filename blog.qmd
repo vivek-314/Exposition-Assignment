@@ -6,7 +6,7 @@ listing:
   type: default
   categories: true
 
-description: "Welcome Post"
+description: "Libaray to learn"
 author: "| Vivek Chaurasia (24110089)
 
 |Chaitanya Chaudhary (24110085)
