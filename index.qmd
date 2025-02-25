@@ -1,5 +1,5 @@
 ---
-title: Quarto Template
+title: Probability Statistics and Data Visualization
 ---
 
-Quarto template Text!
+Lets learn about a new python library - "Tabulate"
