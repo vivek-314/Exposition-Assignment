@@ -5,4 +5,10 @@ listing:
   sort: "date desc"
   type: default
   categories: true
+
+description: "Welcome Post"
+author: "Vivek Chaurasia (24110089),
+Chaitanya Chaudhary (24110085),
+Harshith Muppala (24110213)"
+date: "2/25/2025"
 ---
